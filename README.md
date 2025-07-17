@@ -2,7 +2,7 @@
 
 # Lead Scoring Prediction Model
 
-This project builds a predictive model to estimate the probability of a client purchasing real estate based on behavioral, demographic, and funnel data (Data was provided by BI Group). It was ranked **8th out of 31 participants** in a lead scoring challenge.
+This project builds a predictive model to estimate the probability of a client purchasing real estate based on behavioral, demographic, and funnel data. It was ranked **8th out of 31 participants** in a lead scoring challenge.
 
 ## Dataset Description
 - **4,608 leads** (potential customers)
